@@ -2,3 +2,24 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+/* в качестве основной выбрали темную тему */
+:root {
+  --bg-image: url(../images/cover-image-dark.png);
+  --bg-color: #000028;
+  --text-color: #f1b2ce;
+  --accent-color: #ff0070;
+  --side-color: #db00ff;
+
+  --shadow-color: #ff0070;
+  --btn-color: #ff0070;
+  --header-txt-color: #000028;
+  --angle-color: #ff0070;
+  --hover-color: #ff007066;
+  --title-decor-color: #000028;
+  --section-title-color: #ff0070;
+
+  --header-spacing: 20px;
+  --sections-gap: 80px;
+  --header-content-max-width: 491px;
+}
